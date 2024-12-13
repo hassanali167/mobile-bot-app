@@ -37,7 +37,10 @@ This project is a mobile app developed to demonstrate the power of AI using the 
    pub get  
    ```  
 
-3. Run the project:  
+3. place your groq api in the chat_services.dart  file to run the project and get responce...
+
+
+4. Run the project:  
    ```bash  
    flutter run  
    ```  
