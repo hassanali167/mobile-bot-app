@@ -1,19 +1,57 @@
-# Chat-Bot
+---
 
-A new Flutter project created with FlutLab - https://flutlab.io
+# Mobile App Project  
 
-## Getting Started
+## Overview  
+This project is a mobile app developed to demonstrate the power of AI using the **Llama 3.1 model** and **Groq API** for intelligent responses. The app provides seamless integration of advanced AI capabilities into a user-friendly mobile interface.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Features  
+- 🧠 **AI-Powered Responses**: Integrates the **Llama 3.1 model** for natural language understanding and generation.  
+- 🌐 **Groq API Integration**: Utilizes the Groq API for efficient AI response handling.  
+- 📱 **Mobile-Friendly UI**: Designed for an intuitive and responsive user experience.  
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Tech Stack  
+- **Programming Language**: DART
+- **Framework**: Flutter
+- **AI Model**: Llama 3.1  
+- **API**: Groq API  
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+---
+
+## Installation  
+### Prerequisites   
+- API key for Groq API.  
+
+### Steps  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/hassanali167/mobile-bot-app.git
+   ```    
+   ```  
+2. Install dependencies:  
+   ```bash  
+   pub get  
+   ```  
+
+3. Run the project:  
+   ```bash  
+   flutter run  
+   ```  
+
+---
+
+## Usage  
+1. Open the app on your mobile device or emulator.  
+2. Type or select a query.  
+3. Receive intelligent responses powered by the Llama 3.1 model via Groq API.  
+
+---
+
+## Contributing  
+We welcome contributions! Feel free to fork the repository and submit pull requests.  
+
+---
