@@ -6,7 +6,7 @@ class ChatService {
   // API endpoint and key
   final String apiUrl = 'https://api.groq.com/openai/v1/chat/completions';
   final String apiKey =
-      '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'; // Replace with your actual API key
+      'ENTER YOUR GROQ API KEY'; // Replace with your actual API key
 
   // Method to send message and receive response from the chatbot API
   Future<String> getBotResponse(String message) async {
